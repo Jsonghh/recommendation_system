@@ -3,7 +3,6 @@
 '''
 # Created on Nov-21-19 11:11
 # compelte_workflow.py
-# @author: Jiesong He
 '''
 
 import numpy as np 
